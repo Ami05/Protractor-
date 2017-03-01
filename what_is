@@ -1,0 +1,11 @@
+•	Based on Jasmine
+•	Jasmine is fully supported as test and assertion frameworks.
+•	Protractor is an end-to-end testing framework for AngularJS applications and works as a solution integrator - combining powerful tools and technologies such as NodeJS, Selenium, webDriver, Jasmine, Cucumber and Mocha.
+•	It runs on real browsers and headless browsers.
+•	Protractor is a framework for automation of functional tests
+•	Its intention is to cover the acceptance criteria required by the user.
+•	Even if there are tests that run in the UI level with Protractor, unit and integration tests are still needed.
+•	It runs on top of the Selenium, and thus provides all the benefits and advantages from Selenium.
+•	It provides customizable features to test AngularJS applications.
+
+ 
